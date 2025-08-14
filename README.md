@@ -1,11 +1,71 @@
-- 👋 Hi, I’m Emmanuel Fle Chea.
-- 👀 I’m interested in AI Engineering, Data Engineering, Health Data Science, Data Analytics, AI & Explainable AI, Machine Learning (ML), Natural Language Processing (NLP), and Large Language Models (LLM).
-- 🌱 I hold a Master of Public Health (MPH) in Public Health Data Science from the University of Minnesota.
-- 💞️ I’m currently on the journey of building a genius character and career in health data science, data engineering, ML, and AI. With continuous learning and curiosity being a part of me, I have managed to develop the appropriate skills that would allow me to fill any of the following roles in data science, data analytics, biomedical research, and clinical research industries: AI Engineer, Data Engineer, R programmer, SAS programmer, SQL Administrator, Relational Database Administrator, Data Analyst, Data Scientist, Public Health Data Analyst, Clinical Research Data Analyst, Health Policy Analyst, Data Visualization Specialist, and Health Informatics Specialist. 
-- 📫 How to reach me: You can reach me at emmanuelf.chea@gmail.com / cheax014@umn.edu
+# 👋 Emmanuel Fle Chea
 
+**AI Engineer | Public Health Data Scientist | Advocate for Ethical Innovation**
 
-<!---
-efchea1/efchea1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📍 Based in the U.S.  
+🌍 Rooted in Liberia  
+🎯 Building AI for global public good
+
+---
+
+## 🔧 Current Focus
+
+- 🧠 AI Mastery Portfolio (Aug 2025–Jan 2026)  
+- 🏥 Real-world AI for healthcare equity & emergency response  
+- 📢 Outreach to mentors & collaborators  
+
+---
+
+## 📌 Pinned Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [AI-Mastery-Portfolio](https://github.com/efchea1/AI-Mastery-Portfolio) | Public learning plan & weekly builds | Python |
+| [CDC PLACES Mapping](https://github.com/efchea1/Analytic_Project_Regional-Health-Mapping-Harnessing-CDC-PLACES-Data-for-Minnesota-Community-Health-) | Regional health analytics | R |
+| [Stroke Prediction Models](https://github.com/efchea1/Build-and-deploy-stroke-prediction-models-using-R) | ML models for stroke risk | R |
+| [Prostate Cancer Recurrence](https://github.com/efchea1/Evaluation-of-RBC-Storage-Duration-on-Prostate-Cancer-Recurrence-Post-Prostatectomy) | SAS-based clinical study | SAS |
+| [Cardiovascular Risk Prediction](https://github.com/efchea1/Predictive-Analytics-for-Cardiovascular-Disease-Prevention) | ML on BRFSS data | R |
+| [Surgical Timing Analysis](https://github.com/efchea1/Temporal-Dynamics-of-Surgical-Risk-An-Analysis-of-Timing-and-Outcomes-in-Elective-Surgery) | Temporal risk factors in surgery | SAS |
+
+---
+
+## 🛠️ Skills
+
+## 🧠 Core AI  
+![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)  
+![PyTorch](https://img.shields.io/badge/PyTorch-Framework-orange?logo=pytorch)  
+![LangChain](https://img.shields.io/badge/LangChain-LLM%20Framework-green)  
+![Transformers](https://img.shields.io/badge/NLP-Transformers-purple)  
+![JAX](https://img.shields.io/badge/JAX-ML%20Library-orange)  
+![XLA](https://img.shields.io/badge/XLA-Accelerated%20Linear%20Algebra-yellow)  
+![CUDA](https://img.shields.io/badge/CUDA-GPU%20Programming-green?logo=nvidia)  
+![XGBoost](https://img.shields.io/badge/XGBoost-Gradient%20Boosting-blue)  
+![GLMs](https://img.shields.io/badge/GLMs-Generalized%20Linear%20Models-lightblue)  
+![Explainable AI](https://img.shields.io/badge/Explainable%20AI-Model%20Transparency-yellowgreen)
+
+---
+
+## 🛠️ Backend & Infra  
+![SQL](https://img.shields.io/badge/SQL-Postgres-blue?logo=postgresql)  
+![FastAPI](https://img.shields.io/badge/Backend%20AI%20APIs-FastAPI-blue)  
+![Docker](https://img.shields.io/badge/Docker-Ready-blue?logo=docker)  
+![Supabase](https://img.shields.io/badge/Supabase-Backend-lightgreen?logo=supabase)
+
+---
+
+## 📊 MLOps & Compliance  
+![Secure Pipeline](https://img.shields.io/badge/Secure%20Pipeline-HIPAA%2FGDPR%20Ready-red)  
+![API Tests](https://img.shields.io/badge/API%20Tests-pytest-yellow)  
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-blue?logo=githubactions)  
+![Portfolio](https://img.shields.io/badge/Portfolio-Building-success)  
+![Last Updated](https://img.shields.io/github/last-commit/efchea1/AI-Mastery-Portfolio)
+
+---
+
+## 📚 Public Health & Policy  
+![R](https://img.shields.io/badge/R-Statistical%20Computing-blue?logo=r)  
+![SAS](https://img.shields.io/badge/SAS-Clinical%20Analytics-lightgray)  
+![Public Health Analytics](https://img.shields.io/badge/Public%20Health%20Analytics-Equity%20Focused-green)  
+![Policy Writing](https://img.shields.io/badge/Policy%20Writing-Advocacy%20Driven-orange)
+
+---
