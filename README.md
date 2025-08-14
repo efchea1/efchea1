@@ -29,43 +29,17 @@
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills / Stake Highlights
 
-## 🧠 Core AI  
-![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)  
-![PyTorch](https://img.shields.io/badge/PyTorch-Framework-orange?logo=pytorch)  
-![LangChain](https://img.shields.io/badge/LangChain-LLM%20Framework-green)  
-![Transformers](https://img.shields.io/badge/NLP-Transformers-purple)  
-![JAX](https://img.shields.io/badge/JAX-ML%20Library-orange)  
-![XLA](https://img.shields.io/badge/XLA-Accelerated%20Linear%20Algebra-yellow)  
-![CUDA](https://img.shields.io/badge/CUDA-GPU%20Programming-green?logo=nvidia)  
-![XGBoost](https://img.shields.io/badge/XGBoost-Gradient%20Boosting-blue)  
-![GLMs](https://img.shields.io/badge/GLMs-Generalized%20Linear%20Models-lightblue)  
-![Explainable AI](https://img.shields.io/badge/Explainable%20AI-Model%20Transparency-yellowgreen)
+### 🧠 Core AI  
+![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python) ![PyTorch](https://img.shields.io/badge/PyTorch-Framework-orange?logo=pytorch) ![LangChain](https://img.shields.io/badge/LangChain-LLM%20Framework-green) ![Transformers](https://img.shields.io/badge/NLP-Transformers-purple) ![JAX](https://img.shields.io/badge/JAX-ML%20Library-orange) ![XLA](https://img.shields.io/badge/XLA-Accelerated%20Linear%20Algebra-yellow) ![CUDA](https://img.shields.io/badge/CUDA-GPU%20Programming-green?logo=nvidia) ![XGBoost](https://img.shields.io/badge/XGBoost-Gradient%20Boosting-blue) ![GLMs](https://img.shields.io/badge/GLMs-Generalized%20Linear%20Models-lightblue) ![Explainable AI](https://img.shields.io/badge/Explainable%20AI-Model%20Transparency-yellowgreen)
 
----
+### 🛠️ Backend & Infra  
+![SQL](https://img.shields.io/badge/SQL-Postgres-blue?logo=postgresql) ![FastAPI](https://img.shields.io/badge/Backend%20AI%20APIs-FastAPI-blue) ![Docker](https://img.shields.io/badge/Docker-Ready-blue?logo=docker) ![Supabase](https://img.shields.io/badge/Supabase-Backend-lightgreen?logo=supabase)
 
-## 🛠️ Backend & Infra  
-![SQL](https://img.shields.io/badge/SQL-Postgres-blue?logo=postgresql)  
-![FastAPI](https://img.shields.io/badge/Backend%20AI%20APIs-FastAPI-blue)  
-![Docker](https://img.shields.io/badge/Docker-Ready-blue?logo=docker)  
-![Supabase](https://img.shields.io/badge/Supabase-Backend-lightgreen?logo=supabase)
+### 📊 MLOps & Compliance  
+![Secure Pipeline](https://img.shields.io/badge/Secure%20Pipeline-HIPAA%2FGDPR%20Ready-red) ![API Tests](https://img.shields.io/badge/API%20Tests-pytest-yellow) ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-blue?logo=githubactions) ![Portfolio](https://img.shields.io/badge/Portfolio-Building-success) ![Last Updated](https://img.shields.io/github/last-commit/efchea1/AI-Mastery-Portfolio)
 
----
-
-## 📊 MLOps & Compliance  
-![Secure Pipeline](https://img.shields.io/badge/Secure%20Pipeline-HIPAA%2FGDPR%20Ready-red)  
-![API Tests](https://img.shields.io/badge/API%20Tests-pytest-yellow)  
-![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-blue?logo=githubactions)  
-![Portfolio](https://img.shields.io/badge/Portfolio-Building-success)  
-![Last Updated](https://img.shields.io/github/last-commit/efchea1/AI-Mastery-Portfolio)
-
----
-
-## 📚 Public Health & Policy  
-![R](https://img.shields.io/badge/R-Statistical%20Computing-blue?logo=r)  
-![SAS](https://img.shields.io/badge/SAS-Clinical%20Analytics-lightgray)  
-![Public Health Analytics](https://img.shields.io/badge/Public%20Health%20Analytics-Equity%20Focused-green)  
-![Policy Writing](https://img.shields.io/badge/Policy%20Writing-Advocacy%20Driven-orange)
-
+### 📚 Public Health & Policy  
+![R](https://img.shields.io/badge/R-Statistical%20Computing-blue?logo=r) ![SAS](https://img.shields.io/badge/SAS-Clinical%20Analytics-lightgray) ![Public Health Analytics](https://img.shields.io/badge/Public%20Health%20Analytics-Equity%20Focused-green) ![Policy Writing](https://img.shields.io/badge/Policy%20Writing-Advocacy%20Driven-orange)
 ---
