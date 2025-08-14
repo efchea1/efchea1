@@ -1,7 +1,5 @@
 # 👋 Emmanuel Fle Chea
 
-<img src="C:/Users/emman/Documents/assets/emmanuel-profile.jpg" alt="Emmanuel Fle Chea" width="160" align="right" style="border-radius: 50%;" />
-
 **AI Engineer | Public Health Data Scientist | Advocate for Ethical Innovation**
 
 📍 Based in the U.S. | 🌍 Rooted in Liberia  
