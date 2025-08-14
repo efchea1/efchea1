@@ -1,15 +1,16 @@
 # 👋 Emmanuel Fle Chea
 
-<img src="assets/emmanuel-profile.jpg" alt="Emmanuel Fle Chea" width="160" style="border-radius: 50%;" align="right" />
+<img src="assets/emmanuel-profile.jpg" alt="Emmanuel Fle Chea" width="160" align="right" style="border-radius: 50%;" />
 
 **AI Engineer | Public Health Data Scientist | Advocate for Ethical Innovation**
 
 📍 Based in the U.S. | 🌍 Rooted in Liberia  
-🎯 Building AI systems that serve public health, national security, and global equity
+🎯 Building AI systems for healthcare equity, national security, and global public good
 
 ---
 
-🧭 **Why I Build**  
+## 🧭 Why I Build
+
 I design AI not just to optimize systems—but to challenge inequities, empower communities, and drive ethical reform. My work bridges technical depth with real-world urgency, from predictive health models to crisis response pipelines.
 
 ---
@@ -18,15 +19,15 @@ I design AI not just to optimize systems—but to challenge inequities, empower 
 
 - 🧠 AI Mastery Portfolio (Aug 2025–Jan 2026)  
 - 🏥 Real-world AI for healthcare equity & emergency response  
-- 📢 Outreach to mentors & collaborators   
+- 📢 Outreach to mentors & collaborators  
 
 ---
 
-## 📌 Pinned Projects
+## 📌 Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [AI-Mastery-Portfolio](https://github.com/efchea1/AI-Mastery-Portfolio) | Public learning plan & weekly builds | Python, PyTorch, LangChain, NLP, JAX, XLA, CUDA, Explainable AI, SQL, FastAPI, Docker, Supabase Secure Pipeline, FastAPI |
+| [AI-Mastery-Portfolio](https://github.com/efchea1/AI-Mastery-Portfolio) | Public learning plan & weekly builds | Python, PyTorch, LangChain, NLP, JAX, XLA, CUDA, Explainable AI, SQL, FastAPI, Docker, Supabase |
 | [CDC PLACES Mapping](https://github.com/efchea1/Analytic_Project_Regional-Health-Mapping-Harnessing-CDC-PLACES-Data-for-Minnesota-Community-Health-) | Regional health analytics | R |
 | [Stroke Prediction Models](https://github.com/efchea1/Build-and-deploy-stroke-prediction-models-using-R) | ML models for stroke risk | R |
 | [Prostate Cancer Recurrence](https://github.com/efchea1/Evaluation-of-RBC-Storage-Duration-on-Prostate-Cancer-Recurrence-Post-Prostatectomy) | SAS-based clinical study | SAS |
@@ -48,4 +49,10 @@ I design AI not just to optimize systems—but to challenge inequities, empower 
 
 ### 📚 Public Health & Policy  
 ![R](https://img.shields.io/badge/R-Statistical%20Computing-blue?logo=r) ![SAS](https://img.shields.io/badge/SAS-Clinical%20Analytics-lightgray) ![Public Health Analytics](https://img.shields.io/badge/Public%20Health%20Analytics-Equity%20Focused-green) ![Policy Writing](https://img.shields.io/badge/Policy%20Writing-Advocacy%20Driven-orange)
+
 ---
+
+## 📫 Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/emmanuel-fle-chea)  
+- 📬 Email: emmanuelf.chea@gmail.com
