@@ -1,10 +1,16 @@
 # 👋 Emmanuel Fle Chea
 
+<img src="assets/emmanuel-profile.jpg" alt="Emmanuel Fle Chea" width="160" align="right" />
+
 **AI Engineer | Public Health Data Scientist | Advocate for Ethical Innovation**
 
-📍 Based in the U.S.  
-🌍 Rooted in Liberia  
-🎯 Building AI for global public good
+📍 Based in the U.S. | 🌍 Rooted in Liberia  
+🎯 Building AI systems that serve public health, national security, and global equity
+
+---
+
+🧭 **Why I Build**  
+I design AI not just to optimize systems—but to challenge inequities, empower communities, and drive ethical reform. My work bridges technical depth with real-world urgency, from predictive health models to crisis response pipelines.
 
 ---
 
@@ -12,7 +18,7 @@
 
 - 🧠 AI Mastery Portfolio (Aug 2025–Jan 2026)  
 - 🏥 Real-world AI for healthcare equity & emergency response  
-- 📢 Outreach to mentors & collaborators  
+- 📢 Outreach to mentors & collaborators   
 
 ---
 
