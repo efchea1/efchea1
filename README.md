@@ -34,7 +34,7 @@ I build AI systems not just to optimize performance, but to confront inequity, a
 
 ---
 
-## 🛠️ Skills / Stake Highlights
+## 🛠️ Skills / Stack Highlights
 
 ### 🧠 Core AI  
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python) ![PyTorch](https://img.shields.io/badge/PyTorch-Framework-orange?logo=pytorch) ![LangChain](https://img.shields.io/badge/LangChain-LLM%20Framework-green) ![Transformers](https://img.shields.io/badge/NLP-Transformers-purple) ![JAX](https://img.shields.io/badge/JAX-ML%20Library-orange) ![XLA](https://img.shields.io/badge/XLA-Accelerated%20Linear%20Algebra-yellow) ![CUDA](https://img.shields.io/badge/CUDA-GPU%20Programming-green?logo=nvidia) ![XGBoost](https://img.shields.io/badge/XGBoost-Gradient%20Boosting-blue) ![GLMs](https://img.shields.io/badge/GLMs-Generalized%20Linear%20Models-lightblue) ![Explainable AI](https://img.shields.io/badge/Explainable%20AI-Model%20Transparency-yellowgreen)
