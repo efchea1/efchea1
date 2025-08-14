@@ -1,6 +1,6 @@
 # 👋 Emmanuel Fle Chea
 
-<img src="assets/emmanuel-profile.jpeg" alt="Emmanuel Fle Chea" width="160" align="right" style="border-radius: 50%;" />
+<img src="C:/Users/emman/Documents/assets/emmanuel-profile.jpg" alt="Emmanuel Fle Chea" width="160" align="right" style="border-radius: 50%;" />
 
 **AI Engineer | Public Health Data Scientist | Advocate for Ethical Innovation**
 
