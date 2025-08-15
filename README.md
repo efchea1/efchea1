@@ -57,5 +57,6 @@ I build AI systems not just to optimize performance, but to confront inequity, a
 
 ----
 
-### 📜 License
-Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) — see [LICENSE](LICENSE).
+## 📄 License
+
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
