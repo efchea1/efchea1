@@ -54,3 +54,7 @@ I build AI systems not just to optimize performance, but to confront inequity, a
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/emmanuel-fle-chea)  
 - 📬 Email: emmanuelf.chea@gmail.com
+
+----
+
+📜 Licensed under CC BY-NC 4.0 — see [../LICENSE.md](../LICENSE.md) for details.
