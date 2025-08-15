@@ -50,8 +50,9 @@ I build AI systems not just to optimize performance, but to confront inequity, a
 
 ---
 
-## 📫 Connect
+## 🤝 Contributor Guide & 📫 Connect
 
+All projects are shared under a non-commercial license. Contributions are welcome under the same terms. For commercial inquiries or licensing exceptions, please contact:
 - 🌐 [LinkedIn](https://www.linkedin.com/in/emmanuel-fle-chea)  
 - 📬 Email: emmanuelf.chea@gmail.com
 
