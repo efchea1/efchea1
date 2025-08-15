@@ -56,8 +56,10 @@ All projects are shared under a non-commercial license. Contributions are welcom
 - 🌐 [LinkedIn](https://www.linkedin.com/in/emmanuel-fle-chea)  
 - 📬 Email: emmanuelf.chea@gmail.com
 
+All contributions must comply with the CC BY-NC 4.0 license. Commercial use requires written permission.
+
 ----
 
 ## 📄 License
 
-All projects on this GitHub are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+All projects on this GitHub are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). For licensing exceptions or commercial inquiries, please contact Emmanuel at emmanuelf.chea@gmail.com.
