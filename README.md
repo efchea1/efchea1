@@ -45,8 +45,14 @@ I build AI systems not just to optimize performance, but to confront inequity, a
 ### 📊 MLOps & Compliance  
 ![Secure Pipeline](https://img.shields.io/badge/Secure%20Pipeline-HIPAA%2FGDPR%20Ready-red) ![API Tests](https://img.shields.io/badge/API%20Tests-pytest-yellow) ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-blue?logo=githubactions) ![Portfolio](https://img.shields.io/badge/Portfolio-Building-success) ![Last Updated](https://img.shields.io/github/last-commit/efchea1/AI-Mastery-Portfolio)
 
+### 📐 Statistical Computing  
+![R](https://img.shields.io/badge/R-Statistical%20Computing-blue?logo=r) ![SAS](https://img.shields.io/badge/SAS-Clinical%20Analytics-lightgray) ![GLMs](https://img.shields.io/badge/GLMs-Generalized%20Linear%20Models-lightblue) ![Survival Analysis](https://img.shields.io/badge/Survival%20Analysis-Cox%20Models%2C%20Kaplan--Meier-orange) ![Mixed Models](https://img.shields.io/badge/Mixed%20Models-LME%2C%20GLMMs-yellowgreen) ![R-Shiny](https://img.shields.io/badge/R%20Shiny-Interactive%20Dashboards-purple) ![Reproducible Research](https://img.shields.io/badge/Reproducible%20Research-RMarkdown%2C%20Quarto-blueviolet) ![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-green?logo=microsoft-excel) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-Collaborative%20Spreadsheets-lightgreen?logo=google-sheets) ![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-yellow?logo=powerbi) ![Tableau](https://img.shields.io/badge/Tableau-Data%20Viz-blue?logo=tableau)
+
 ### 📚 Public Health & Policy  
-![R](https://img.shields.io/badge/R-Statistical%20Computing-blue?logo=r) ![SAS](https://img.shields.io/badge/SAS-Clinical%20Analytics-lightgray) ![Public Health Analytics](https://img.shields.io/badge/Public%20Health%20Analytics-Equity%20Focused-green) ![Policy Writing](https://img.shields.io/badge/Policy%20Writing-Advocacy%20Driven-orange)
+![R](https://img.shields.io/badge/R-Statistical%20Computing-blue?logo=r) ![SAS](https://img.shields.io/badge/SAS-Clinical%20Analytics-lightgray) ![R-Shiny](https://img.shields.io/badge/R%20Shiny-Interactive%20Dashboards-purple) ![Public Health Analytics](https://img.shields.io/badge/Public%20Health%20Analytics-Equity%20Focused-green) ![Policy Writing](https://img.shields.io/badge/Policy%20Writing-Advocacy%20Driven-orange)
+
+### 📈 Visualization & Productivity  
+![Tableau](https://img.shields.io/badge/Tableau-Data%20Viz-blue?logo=tableau) ![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-yellow?logo=powerbi) ![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-green?logo=microsoft-excel) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-Collaborative%20Spreadsheets-lightgreen?logo=google-sheets) ![PowerPoint](https://img.shields.io/badge/PowerPoint-Strategic%20Comms-orange?logo=microsoft-powerpoint)
 
 ---
 
