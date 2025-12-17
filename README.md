@@ -25,7 +25,7 @@ I build AI systems not just to optimize performance, but to confront inequity, a
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [Scalable Plasma Biomarker Phenotyping for Alzheimer's Disease](https://github.com/efchea1/Scalable-Plasma-Biomarker-Phenotyping-for-Alzheimer-s-Disease) | Alzheimer’s disease heterogeneity using plasma biomarkers, ATN endotyping, clustering, and variational autoencoding (VAE) | R; **Deep Learning:** Keras (R interface), Rensorflow (R interface); **Statistical & Machine Learning Libraries:** nnet, pROC, cluster, factoextra, DESeq2 |
+| [Scalable Plasma Biomarker Phenotyping for Alzheimer's Disease](https://github.com/efchea1/Scalable-Plasma-Biomarker-Phenotyping-for-Alzheimer-s-Disease) | Alzheimer’s disease heterogeneity using plasma biomarkers, ATN endotyping, clustering, and variational autoencoding (VAE) | R; **Deep Learning:** Keras (R interface), Tensorflow (R interface); **Statistical & Machine Learning Libraries:** nnet, pROC, cluster, factoextra, DESeq2 |
 | [AI-Mastery-Portfolio](https://github.com/efchea1/AI-Mastery-Portfolio) | Public learning plan & weekly builds | Python, PyTorch, LangChain, NLP, JAX, XLA, CUDA, Explainable AI, SQL, FastAPI, Docker, Supabase |
 | [CDC PLACES Mapping](https://github.com/efchea1/Analytic_Project_Regional-Health-Mapping-Harnessing-CDC-PLACES-Data-for-Minnesota-Community-Health-) | Regional health analytics | R |
 | [Stroke Prediction Models](https://github.com/efchea1/Build-and-deploy-stroke-prediction-models-using-R) | ML models for stroke risk | R |
