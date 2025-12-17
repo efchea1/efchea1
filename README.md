@@ -25,12 +25,12 @@ I build AI systems not just to optimize performance, but to confront inequity, a
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| [Scalable Plasma Biomarker Phenotyping for Alzheimer's Disease](https://github.com/efchea1/Scalable-Plasma-Biomarker-Phenotyping-for-Alzheimer-s-Disease) | Scalable Plasma Biomarker Phenotyping for Alzheimer's Disease | R; **Deep Learning:** Keras (R interface), Rensorflow (R interface); **Statistical & Machine Learning Libraries:** nnet, pROC, cluster, factoextra, DESeq2 |
 | [AI-Mastery-Portfolio](https://github.com/efchea1/AI-Mastery-Portfolio) | Public learning plan & weekly builds | Python, PyTorch, LangChain, NLP, JAX, XLA, CUDA, Explainable AI, SQL, FastAPI, Docker, Supabase |
 | [CDC PLACES Mapping](https://github.com/efchea1/Analytic_Project_Regional-Health-Mapping-Harnessing-CDC-PLACES-Data-for-Minnesota-Community-Health-) | Regional health analytics | R |
 | [Stroke Prediction Models](https://github.com/efchea1/Build-and-deploy-stroke-prediction-models-using-R) | ML models for stroke risk | R |
 | [Prostate Cancer Recurrence](https://github.com/efchea1/Evaluation-of-RBC-Storage-Duration-on-Prostate-Cancer-Recurrence-Post-Prostatectomy) | SAS-based clinical study | SAS |
 | [Cardiovascular Risk Prediction](https://github.com/efchea1/Predictive-Analytics-for-Cardiovascular-Disease-Prevention) | ML on BRFSS data | R |
-| [Surgical Timing Analysis](https://github.com/efchea1/Temporal-Dynamics-of-Surgical-Risk-An-Analysis-of-Timing-and-Outcomes-in-Elective-Surgery](https://github.com/efchea1/Scalable-Plasma-Biomarker-Phenotyping-for-Alzheimer-s-Disease) | Temporal risk factors in surgery | SAS |
 
 ---
 
