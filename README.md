@@ -1,6 +1,6 @@
 # 👋 Emmanuel Fle Chea
 
-**Public Health Data Scientist | AI/ML Engineer | Builder for Ethical, Global Innovation**
+**Public Health Data Scientist | Biomedical Scientist | Builder for Ethical, Global Innovation**
 
 📍 Based in the U.S. | 🌍 Rooted in Liberia  
 🎯 Building AI systems for healthcare equity, national security, and global public good
