@@ -1,6 +1,8 @@
 # Emmanuel Fle Chea 🧠📊
 
-<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/efchea1/efchea1/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 **"Equity lives in the data"**
 
