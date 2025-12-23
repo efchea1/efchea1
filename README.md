@@ -1,7 +1,8 @@
-# 👋 Emmanuel Fle Chea
+# Emmanuel Fle Chea 🧠📊
 
-**Emmanuel Fle Chea is a public health data scientist and biomedical scientist specializing in EHR and claims analytics, NLP-derived clinical data, epidemiological modeling, and reproducible data pipelines. His research spans Alzheimer’s disease biomarker modeling, depression severity trajectories, and multi-site health system data integration across federally funded research initiatives. He has developed automated R, Python, SAS, and SQL workflows for datasets exceeding 11 million records, built predictive models supporting clinical and public health decision-making, and contributed to NIH-funded informatics frameworks.
-His background includes medical device testing under FDA 21 CFR Part 11, medical data governance, HIPAA/GDPR compliance, and cross-institutional data-sharing processes. He has taught and mentored graduate students in biostatistics, SAS, R, SQL, and reproducible research practices. His work emphasizes transparency, equity-focused analytics, and open-science methodologies, integrating statistical modeling, informatics, and data governance to advance translational health research and global health data systems.**
+**"Equity lives in the data"**
+
+Public health data scientist and biomedical researcher decoding clinical and population-level data for translational impact.
 
 📍 Based in the U.S. | 🌍 Rooted in Liberia  
 🎯 Building AI systems for healthcare equity, national security, and global public good
@@ -19,14 +20,6 @@ I’m a public health data scientist and biomedical researcher focused on transf
 * 🔐**Data governance**, HIPAA/GDPR compliance & multi‑site data integration
 
 Currently focused on building transparent, equity‑driven analytic frameworks that advance translational research, strengthen health system decision‑making, and support global public health data infrastructure.
-
----
-
-## 🔧 Current Focus
-
-- 🧠 AI Mastery Portfolio (Aug 2025–Jan 2026)  
-- 🏥 Real-world AI for healthcare equity & emergency response  
-- 📢 Outreach to mentors & collaborators  
 
 ---
 
