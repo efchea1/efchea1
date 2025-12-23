@@ -1,8 +1,7 @@
 # Emmanuel Fle Chea 🧠📊
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/efchea1/efchea1/output/github-contribution-grid-snake-dark.svg" />
-</p>
+![GitHub Snake Animation](https://raw.githubusercontent.com/efchea1/efchea1/output/github-contribution-grid-snake-dark.svg)
+
 
 **"Equity lives in the data"**
 
