@@ -1,4 +1,4 @@
-# Emmanuel Fle Chea 🧠📊
+# 📊 Emmanuel Fle Chea
 
 **"Equity lives in the data"**
 
