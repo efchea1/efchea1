@@ -1,8 +1,5 @@
 # Emmanuel Fle Chea 🧠📊
 
-![GitHub Snake Animation](https://raw.githubusercontent.com/efchea1/efchea1/output/github-contribution-grid-snake-dark.svg)
-
-
 **"Equity lives in the data"**
 
 Public health data scientist and biomedical researcher decoding clinical and population-level data for translational impact.
