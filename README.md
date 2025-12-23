@@ -1,5 +1,7 @@
 # Emmanuel Fle Chea 🧠📊
 
+<img src="https://raw.githubusercontent.com/efchea1/contrib-grid/main/contrib-grid.svg" width="720" />
+
 **"Equity lives in the data"**
 
 Public health data scientist and biomedical researcher decoding clinical and population-level data for translational impact.
