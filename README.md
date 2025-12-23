@@ -8,9 +8,17 @@ His background includes medical device testing under FDA 21 CFR Part 11, medical
 
 ---
 
-## 🧭 Why I Build
+# About Me
 
-I build AI systems not just to optimize performance, but to confront inequity, amplify underserved voices, and reimagine how technology serves humanity. My work lives at the intersection of public health, national security, and ethical innovation, translating technical depth into real-world urgency. From predictive models that inform life-saving decisions to crisis-response pipelines that prioritize transparency and trust, I design with purpose and with people in mind.
+I’m a public health data scientist and biomedical researcher focused on transforming complex clinical and population‑level data into meaningful, actionable insights. My work spans health services research, informatics, and large‑scale analytics, with expertise in:
+
+📊 EHR & claims analytics at scale
+🤖 NLP‑derived clinical data and predictive modeling
+🧠 Epidemiological modeling for neurodegenerative & mental health outcomes
+🛠️ Reproducible R, Python, SAS & SQL pipelines for multi‑million‑record datasets
+🔐 Data governance, HIPAA/GDPR compliance & multi‑site data integration
+
+Currently focused on building transparent, equity‑driven analytic frameworks that advance translational research, strengthen health system decision‑making, and support global public health data infrastructure.
 
 ---
 
