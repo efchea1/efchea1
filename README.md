@@ -1,4 +1,95 @@
 # Emmanuel Fle Chea 🧠📊
+<svg width="720" height="120" viewBox="0 0 720 120" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect x="0" y="0" width="720" height="120" fill="#0d1117" />
+
+  <!-- Grid settings -->
+  <!-- 20 columns (weeks) x 7 rows (days) -->
+  <!-- Each cell: 12x12, with 3px gap -->
+  <!-- Colors inspired by GitHub dark contribution graph -->
+
+  <!-- Contribution cells -->
+  <g id="grid" transform="translate(20, 10)">
+    <!-- Define colors for activity levels -->
+    <!-- You can randomize / tweak these manually -->
+    <!-- Row = day of week, Col = "week" -->
+
+    <!-- Generate some sample data by hand -->
+    <!-- y = row * 15, x = col * 15 -->
+
+    <!-- Row 0 -->
+    <rect x="0" y="0" width="12" height="12" rx="2" fill="#161b22" />
+    <rect x="15" y="0" width="12" height="12" rx="2" fill="#0e4429" />
+    <rect x="30" y="0" width="12" height="12" rx="2" fill="#26a641" />
+    <rect x="45" y="0" width="12" height="12" rx="2" fill="#39d353" />
+    <rect x="60" y="0" width="12" height="12" rx="2" fill="#161b22" />
+    <rect x="75" y="0" width="12" height="12" rx="2" fill="#0e4429" />
+    <rect x="90" y="0" width="12" height="12" rx="2" fill="#0e4429" />
+    <rect x="105" y="0" width="12" height="12" rx="2" fill="#26a641" />
+    <rect x="120" y="0" width="12" height="12" rx="2" fill="#39d353" />
+    <rect x="135" y="0" width="12" height="12" rx="2" fill="#161b22" />
+    <rect x="150" y="0" width="12" height="12" rx="2" fill="#0e4429" />
+    <rect x="165" y="0" width="12" height="12" rx="2" fill="#26a641" />
+    <rect x="180" y="0" width="12" height="12" rx="2" fill="#161b22" />
+    <rect x="195" y="0" width="12" height="12" rx="2" fill="#161b22" />
+    <rect x="210" y="0" width="12" height="12" rx="2" fill="#0e4429" />
+    <rect x="225" y="0" width="12" height="12" rx="2" fill="#39d353" />
+    <rect x="240" y="0" width="12" height="12" rx="2" fill="#0e4429" />
+    <rect x="255" y="0" width="12" height="12" rx="2" fill="#26a641" />
+    <rect x="270" y="0" width="12" height="12" rx="2" fill="#161b22" />
+    <rect x="285" y="0" width="12" height="12" rx="2" fill="#0e4429" />
+
+    <!-- Row 1 -->
+    <!-- You can copy/paste and change y and fill for variety -->
+    <rect x="0" y="15" width="12" height="12" rx="2" fill="#161b22" />
+    <rect x="15" y="15" width="12" height="12" rx="2" fill="#161b22" />
+    <rect x="30" y="15" width="12" height="12" rx="2" fill="#0e4429" />
+    <rect x="45" y="15" width="12" height="12" rx="2" fill="#26a641" />
+    <rect x="60" y="15" width="12" height="12" rx="2" fill="#39d353" />
+    <rect x="75" y="15" width="12" height="12" rx="2" fill="#26a641" />
+    <rect x="90" y="15" width="12" height="12" rx="2" fill="#0e4429" />
+    <rect x="105" y="15" width="12" height="12" rx="2" fill="#161b22" />
+    <rect x="120" y="15" width="12" height="12" rx="2" fill="#0e4429" />
+    <rect x="135" y="15" width="12" height="12" rx="2" fill="#26a641" />
+    <rect x="150" y="15" width="12" height="12" rx="2" fill="#39d353" />
+    <rect x="165" y="15" width="12" height="12" rx="2" fill="#26a641" />
+    <rect x="180" y="15" width="12" height="12" rx="2" fill="#0e4429" />
+    <rect x="195" y="15" width="12" height="12" rx="2" fill="#161b22" />
+    <rect x="210" y="15" width="12" height="12" rx="2" fill="#161b22" />
+    <rect x="225" y="15" width="12" height="12" rx="2" fill="#0e4429" />
+    <rect x="240" y="15" width="12" height="12" rx="2" fill="#26a641" />
+    <rect x="255" y="15" width="12" height="12" rx="2" fill="#39d353" />
+    <rect x="270" y="15" width="12" height="12" rx="2" fill="#26a641" />
+    <rect x="285" y="15" width="12" height="12" rx="2" fill="#0e4429" />
+
+    <!-- Add more rows (y=30,45,60,75,90) the same way if you want a full 7-day grid -->
+
+  </g>
+
+  <!-- Moving highlight overlay -->
+  <!-- A semi-transparent vertical band that sweeps across the grid -->
+  <rect id="scanner" x="-60" y="0" width="80" height="120" fill="url(#scannerGradient)" opacity="0.75">
+    <animate
+      attributeName="x"
+      from="-80"
+      to="720"
+      dur="5s"
+      repeatCount="indefinite"
+    />
+  </rect>
+
+  <!-- Gradient for the moving scanner -->
+  <defs>
+    <linearGradient id="scannerGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.0" />
+      <stop offset="40%" stop-color="#7c3aed" stop-opacity="0.4" />
+      <stop offset="60%" stop-color="#22c55e" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#22c55e" stop-opacity="0.0" />
+    </linearGradient>
+  </defs>
+
+</svg>
 
 **"Equity lives in the data"**
 
