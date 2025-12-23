@@ -12,11 +12,15 @@ His background includes medical device testing under FDA 21 CFR Part 11, medical
 
 I’m a public health data scientist and biomedical researcher focused on transforming complex clinical and population‑level data into meaningful, actionable insights. My work spans health services research, informatics, and large‑scale analytics, with expertise in:
 
-📊 **EHR & claims analytics** at scale
-🤖 **NLP‑derived clinical data and predictive modeling**
-🧠 **Epidemiological modeling for neurodegenerative & mental health outcomes**
-🛠️ **Reproducible** R, Python, SAS & SQL pipelines for multi‑million‑record datasets
-🔐 **Data governance**, HIPAA/GDPR compliance & multi‑site data integration
+📊**EHR & claims analytics** at scale
+
+🤖**NLP‑derived clinical data and predictive modeling**
+
+🧠**Epidemiological modeling for neurodegenerative & mental health outcomes**
+
+🛠️**Reproducible** R, Python, SAS & SQL pipelines for multi‑million‑record datasets
+
+🔐**Data governance**, HIPAA/GDPR compliance & multi‑site data integration
 
 Currently focused on building transparent, equity‑driven analytic frameworks that advance translational research, strengthen health system decision‑making, and support global public health data infrastructure.
 
