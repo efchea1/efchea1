@@ -1,20 +1,14 @@
-<div align="center">
-👋 Hi, I'm Emmanuel Fle Chea
-*"Equity lives in the data"*
-<br>
-```
-╔════════════════════════════════════════════════════════════════════════════════╗
-║  Public Health Data Scientist | Independent & Biomedical Researcher | AI Builder           ║
-╚════════════════════════════════════════════════════════════════════════════════╝
-```
-<br>
-Decoding clinical and population-level data for translational impact
-</div>
-<div align="center">
-📍 Based in: Minneapolis, Minnesota, U.S.
-🌍 Rooted in: Liberia, West Africa
-🎯 Mission: Building AI systems for healthcare equity, national security, and global public good
-```
+# 📊 Emmanuel Fle Chea
+
+**"Equity lives in the data"**
+
+Public health data scientist and biomedical researcher decoding clinical and population-level data for translational impact.
+
+📍 Based in the U.S. | 🌍 Rooted in Liberia  
+🎯 Building AI systems for healthcare equity, national security, and global public good
+
+---
+
 # About Me
 
 I’m a public health data scientist and biomedical researcher focused on transforming complex clinical and population‑level data into meaningful, actionable insights. My work spans health services research, informatics, and large‑scale analytics, with expertise in:
