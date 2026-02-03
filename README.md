@@ -2,9 +2,9 @@
 
 **"Equity lives in the data"**
 
-Public health data scientist and biomedical researcher decoding clinical and population-level data for translational impact.
+Public health data scientist and biomedical researcher transforming clinical and population‑level data into translational, equitable, and operationally meaningful insights.
 
-📍 Based in the U.S. | 🌍 Rooted in Liberia  
+📍 U.S.-based | 🌍 Liberian‑rooted
 🎯 Building AI systems for healthcare equity, national security, and global public good
 
 ---
@@ -13,11 +13,11 @@ Public health data scientist and biomedical researcher decoding clinical and pop
 
 I’m a public health data scientist and biomedical researcher specializing in **large‑scale clinical analytics, health economics**, and **machine‑learned biomarker phenotyping**. My work sits at the intersection of:
 
-- Health services research
-- Clinical informatics & NLP
-- Predictive modeling & fairness evaluation
-- Reproducible pipelines for multi‑million‑record datasets
-- Population neuroscience & neurodegeneration research
+**- Health services research**
+**- Clinical informatics & NLP**
+**- Predictive modeling & fairness evaluation**
+**- Reproducible pipelines for multi‑million‑record datasets**
+**- Population neuroscience & neurodegeneration research**
 
 I build transparent, equity‑driven analytic frameworks that strengthen health system decision‑making, accelerate translational research, and support national‑scale public health infrastructure.
 
