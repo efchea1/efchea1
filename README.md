@@ -5,7 +5,7 @@
 Public health data scientist and biomedical researcher transforming clinical and population‑level data into translational, equitable, and operationally meaningful insights.
 
 📍 U.S.-based | 🌍 Liberian‑rooted  
-🎯 Building AI systems for healthcare equity, national security, and global public good
+🎯 Building AI systems that advance healthcare equity, national security, and the global public good
 
 ---
 
