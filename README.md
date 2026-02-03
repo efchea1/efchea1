@@ -4,10 +4,8 @@
 
 Public health data scientist and biomedical researcher transforming clinical and population‑level data into translational, equitable, and operationally meaningful insights.
 
-📍 U.S.-based | 🌍 Liberian‑rooted  
+📍 U.S.-based | 🌍 Liberian-rooted  
 🎯 Building AI systems that advance healthcare equity, national security, and the global public good
-
----
 
 ### 🔗 Research Profiles
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar)](https://scholar.google.com/citations?user=UeIJ3uQAAAAJ)
