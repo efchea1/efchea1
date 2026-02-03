@@ -93,7 +93,7 @@ Machine‑learning models for chronic disease risk prediction using BRFSS data.
 
 ### 🗺️ **CDC PLACES Regional Health Mapping**
 Community‑level chronic disease mapping and health equity analytics for Minnesota.  
-**Tech:** R  
+**Tech:** R, R Shiny  
 🔗 https://github.com/efchea1/Analytic_Project_Regional-Health-Mapping-Harnessing-CDC-PLACES-Data-for-Minnesota-Community-Health-
 
 ---
