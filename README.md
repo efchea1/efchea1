@@ -1,10 +1,10 @@
 # 📊 Emmanuel Fle Chea
 
-**"Equity lives in the data"**
+**"Equity lives in the data. I build systems that make it measurable."**
 
 Public health data scientist and biomedical researcher transforming clinical and population‑level data into translational, equitable, and operationally meaningful insights.
 
-📍 U.S.-based | 🌍 Liberian‑rooted
+📍 U.S.-based | 🌍 Liberian‑rooted  
 🎯 Building AI systems for healthcare equity, national security, and global public good
 
 ---
