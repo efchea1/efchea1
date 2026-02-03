@@ -18,7 +18,8 @@ Public health data scientist and biomedical researcher transforming clinical and
 I’m a public health data scientist and biomedical researcher specializing in **large‑scale clinical analytics**, **health economics**, and **machine‑learned biomarker phenotyping**. My work sits at the intersection of:
 
 - **Health services research**  
-- **Clinical informatics & NLP**  
+- **Clinical informatics & NLP**
+- **EHR & claims analytics**
 - **Predictive modeling & fairness evaluation**  
 - **Reproducible pipelines for multi‑million‑record datasets**  
 - **Population neuroscience & neurodegeneration research**
