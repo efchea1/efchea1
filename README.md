@@ -25,14 +25,52 @@ Currently focused on building transparent, equity‑driven analytic frameworks t
 
 ## 📌 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [Scalable Plasma Biomarker Phenotyping for Alzheimer's Disease](https://github.com/efchea1/Scalable-Plasma-Biomarker-Phenotyping-for-Alzheimer-s-Disease) | Alzheimer’s disease heterogeneity using plasma biomarkers, ATN endotyping, clustering, and variational autoencoding (VAE) | R; **Deep Learning:** Keras (R interface), Tensorflow (R interface); **Statistical & Machine Learning Libraries:** nnet, pROC, cluster, factoextra, DESeq2 |
-| [AI-Mastery-Portfolio](https://github.com/efchea1/AI-Mastery-Portfolio) | Public learning plan & weekly builds | Python, PyTorch, LangChain, NLP, JAX, XLA, CUDA, Explainable AI, SQL, FastAPI, Docker, Supabase |
-| [CDC PLACES Mapping](https://github.com/efchea1/Analytic_Project_Regional-Health-Mapping-Harnessing-CDC-PLACES-Data-for-Minnesota-Community-Health-) | Regional health analytics | R |
-| [Stroke Prediction Models](https://github.com/efchea1/Build-and-deploy-stroke-prediction-models-using-R) | ML models for stroke risk | R |
-| [Prostate Cancer Recurrence](https://github.com/efchea1/Evaluation-of-RBC-Storage-Duration-on-Prostate-Cancer-Recurrence-Post-Prostatectomy) | SAS-based clinical study | SAS |
-| [Cardiovascular Risk Prediction](https://github.com/efchea1/Predictive-Analytics-for-Cardiovascular-Disease-Prevention) | ML on BRFSS data | R |
+### **Equity & Transportability of Plasma ATN Phenotypes**
+Fairness, calibration, and population‑representative evaluation of Alzheimer’s plasma biomarkers across U.S. aging cohorts. Includes subgroup performance, calibration drift, and transportability diagnostics.  
+**Tech:** R, fairness metrics, calibration, transportability  
+🔗 https://github.com/efchea1/Equity-Transportability-Plasma-ATN-Phenotypes
+
+---
+
+### **ATN vs Machine‑Learned Plasma Biomarker Phenotypes**
+Comparative analysis of ATN classification versus machine‑learned phenotypes using clustering, ROC/PR evaluation, and population‑based biomarker analytics.  
+**Tech:** R, ML phenotyping, clustering, pROC  
+🔗 https://github.com/efchea1/ATN-vs-Machine-Learned-Plasma-Biomarker-Phenotypes
+
+---
+
+### **Scalable Plasma Biomarker Phenotyping for Alzheimer’s Disease**
+Large‑scale Alzheimer’s heterogeneity analysis using plasma biomarkers, ATN endotyping, clustering, and variational autoencoders (VAE).  
+**Tech:** R, Keras/TensorFlow (R), pROC, cluster, DESeq2  
+🔗 https://github.com/efchea1/Scalable-Plasma-Biomarker-Phenotyping-for-Alzheimer-s-Disease
+
+---
+
+### **Stroke Prediction Models**
+Predictive modeling and evaluation for stroke risk using clinical and behavioral risk factors.  
+**Tech:** R  
+🔗 https://github.com/efchea1/Build-and-deploy-stroke-prediction-models-using-R
+
+---
+
+### **Biomarkers & Clinical Covariates for Predicting Prostate Cancer Recurrence**
+Clinical outcomes study integrating biomarkers and covariates to model biochemical recurrence after prostate cancer treatment.  
+**Tech:** R  
+🔗 https://github.com/efchea1/Biomarkers-and-Clinical-Covariates-for-Predicting-Prostate-Cancer-Recurrence
+
+---
+
+### **Cardiovascular Risk Prediction**
+Machine‑learning models for chronic disease risk prediction using BRFSS data.  
+**Tech:** R  
+🔗 https://github.com/efchea1/Predictive-Analytics-for-Cardiovascular-Disease-Prevention
+
+---
+
+### **CDC PLACES Regional Health Mapping**
+Community‑level chronic disease mapping and health equity analytics for Minnesota.  
+**Tech:** R  
+🔗 https://github.com/efchea1/Analytic_Project_Regional-Health-Mapping-Harnessing-CDC-PLACES-Data-for-Minnesota-Community-Health-
 
 ---
 
