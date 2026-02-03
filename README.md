@@ -23,7 +23,7 @@ Currently focused on building transparent, equity‑driven analytic frameworks t
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
 ### **Equity & Transportability of Plasma ATN Phenotypes**
 Fairness, calibration, and population‑representative evaluation of Alzheimer’s plasma biomarkers across U.S. aging cohorts. Includes subgroup performance, calibration drift, and transportability diagnostics.  
