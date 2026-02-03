@@ -31,8 +31,8 @@ These projects represent high‑impact, identity‑defining work in **Alzheimer�
 ---
 
 ### 🔬 **ATN vs Machine‑Learned Plasma Biomarker Phenotypes**
-Comparative analysis of ATN classification versus machine‑learned phenotypes using clustering, ROC/PR evaluation, and population‑based biomarker analytics. Supports your Molecular Neurodegeneration manuscript.  
-**Tech:** R, ML phenotyping, clustering, pROC  
+Comparative analysis of theory‑driven ATN classification versus data‑driven biomarker phenotypes using k‑means clustering, Gaussian mixture models, PCA, and variational autoencoder (VAE) latent structure. Evaluates concordance, phenotype divergence, and population‑based biomarker patterns.  
+**Tech:** R, unsupervised ML phenotyping, clustering, GMM, PCA, VAE  
 **Preprint:** https://doi.org/10.64898/2026.01.02.26343331  
 **Peer‑review journal publication:** *In progress*  
 🔗 https://github.com/efchea1/ATN-vs-Machine-Learned-Plasma-Biomarker-Phenotypes
