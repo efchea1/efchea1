@@ -47,7 +47,7 @@ Comparative analysis of theory‑driven ATN classification versus data‑driven 
 ### 🧠 **Equity & Transportability of Plasma ATN Phenotypes**
 Fairness, calibration, and population‑representative evaluation of Alzheimer’s plasma biomarkers across U.S. aging cohorts. Includes subgroup performance, calibration drift, and transportability diagnostics.  
 **Tech:** R, fairness metrics, calibration, transportability  
-**Preprint:** https://doi.org/10.64898/2026.01.31.26344775 
+**Preprint:** *In progress* 
 **Peer‑review journal publication:** *In progress*  
 🔗 https://github.com/efchea1/Equity-Transportability-Plasma-ATN-Phenotypes
 
