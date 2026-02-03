@@ -25,7 +25,7 @@ Currently focused on building transparent, equity‑driven analytic frameworks t
 
 ## 📌 Featured Projects
 
-### **Tier 1 — Flagship Research (Core Scientific Identity)**
+### **Tier 1 - Flagship Research (Core Scientific Identity)**
 These projects represent high‑impact, identity‑defining work in **Alzheimer’s biomarkers, equity analytics, and population‑level evaluation**.
 
 ---
