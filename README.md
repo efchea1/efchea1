@@ -30,17 +30,17 @@ These projects represent high‑impact, identity‑defining work in **Alzheimer�
 
 ---
 
-### 🧠 **Equity & Transportability of Plasma ATN Phenotypes**
-Fairness, calibration, and population‑representative evaluation of Alzheimer’s plasma biomarkers across U.S. aging cohorts. Includes subgroup performance, calibration drift, and transportability diagnostics.  
-**Tech:** R, fairness metrics, calibration, transportability  
-🔗 https://github.com/efchea1/Equity-Transportability-Plasma-ATN-Phenotypes
-
----
-
 ### 🔬 **ATN vs Machine‑Learned Plasma Biomarker Phenotypes**
 Comparative analysis of ATN classification versus machine‑learned phenotypes using clustering, ROC/PR evaluation, and population‑based biomarker analytics. Supports your Molecular Neurodegeneration manuscript.  
 **Tech:** R, ML phenotyping, clustering, pROC  
 🔗 https://github.com/efchea1/ATN-vs-Machine-Learned-Plasma-Biomarker-Phenotypes
+
+---
+
+### 🧠 **Equity & Transportability of Plasma ATN Phenotypes**
+Fairness, calibration, and population‑representative evaluation of Alzheimer’s plasma biomarkers across U.S. aging cohorts. Includes subgroup performance, calibration drift, and transportability diagnostics.  
+**Tech:** R, fairness metrics, calibration, transportability  
+🔗 https://github.com/efchea1/Equity-Transportability-Plasma-ATN-Phenotypes
 
 ---
 
