@@ -11,15 +11,15 @@ Public health data scientist and biomedical researcher decoding clinical and pop
 
 # About Me
 
-I’m a public health data scientist and biomedical researcher focused on transforming complex clinical and population‑level data into meaningful, actionable insights. My work spans health services research, informatics, and large‑scale analytics, with expertise in:
+I’m a public health data scientist and biomedical researcher specializing in **large‑scale clinical analytics, health economics**, and **machine‑learned biomarker phenotyping**. My work sits at the intersection of:
 
-* 📊**EHR & claims analytics** at scale
-* 🤖**NLP‑derived clinical data and predictive modeling**
-* 🧠**Epidemiological modeling for neurodegenerative & mental health outcomes**
-* 🛠️**Reproducible** R, Python, SAS & SQL pipelines for multi‑million‑record datasets
-* 🔐**Data governance**, HIPAA/GDPR compliance & multi‑site data integration
+- Health services research
+- Clinical informatics & NLP
+- Predictive modeling & fairness evaluation
+- Reproducible pipelines for multi‑million‑record datasets
+- Population neuroscience & neurodegeneration research
 
-Currently focused on building transparent, equity‑driven analytic frameworks that advance translational research, strengthen health system decision‑making, and support global public health data infrastructure.
+I build transparent, equity‑driven analytic frameworks that strengthen health system decision‑making, accelerate translational research, and support national‑scale public health infrastructure.
 
 ---
 
