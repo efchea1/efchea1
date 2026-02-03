@@ -52,7 +52,7 @@ Large‑scale Alzheimer’s heterogeneity analysis using plasma biomarkers, ATN 
 ---
 
 ## 📁 Additional Projects
-Supporting work demonstrating your range across **Python, R, SAS, ML, clinical outcomes, and public health analytics**.
+These projects demonstrate breadth across **Python, R, SAS, ML, clinical outcomes, and public health analytics**.
 
 ---
 
