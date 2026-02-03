@@ -65,7 +65,7 @@ Machine‑learning models for liver disease classification using clinical and bi
 
 ### ❤️ **Stroke Prediction Models**
 Predictive modeling and evaluation for stroke risk using clinical and behavioral risk factors.  
-**Tech:** R  
+**Tech:** R, R Shiny  
 🔗 https://github.com/efchea1/Build-and-deploy-stroke-prediction-models-using-R
 
 ---
