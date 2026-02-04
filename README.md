@@ -228,7 +228,7 @@ All projects in this repository are licensed under the [**Creative Commons Attri
 
 <div align="center">
 
-**Building systems where equity is not aspirational—it's measurable.**
+**Building systems where equity is not aspirational, it's measurable.**
 
 ⭐ *If you find my work valuable, consider starring the repositories!*
 
