@@ -1,17 +1,14 @@
-![Header Banner](./assets/profile_banner.svg)
+<div align="center">
+  <img src="./assets/profile_banner.svg" alt="Emmanuel Fle Chea Banner" width="100%">
+</div>
 
-# 📊 Emmanuel Fle Chea
-
-**"Equity lives in the data. I build systems that make it measurable."**
-
-Public health data scientist and biomedical researcher transforming clinical and population‑level data into translational, equitable, and operationally meaningful insights.
-
-📍 U.S.-based | 🌍 Liberian-rooted  
-🎯 Building AI systems that advance healthcare equity, national security, and the global public good
+<div align="center">
 
 ### 🔗 Research Profiles
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar)](https://scholar.google.com/citations?user=UeIJ3uQAAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--1563--2558-brightgreen?logo=orcid)](https://orcid.org/0009-0005-1563-2558)
+
+</div>
 
 ---
 
