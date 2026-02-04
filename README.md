@@ -1,17 +1,3 @@
-<div align="center">
-  <img src="./assets/profile_banner.png" alt="Emmanuel Fle Chea Banner" width="100%">
-</div>
-
-<div align="center">
-
-### 🔗 Research Profiles
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar)](https://scholar.google.com/citations?user=UeIJ3uQAAAAJ)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--1563--2558-brightgreen?logo=orcid)](https://orcid.org/0009-0005-1563-2558)
-
-</div>
-
----
-
 # 📊 Emmanuel Fle Chea
 
 **"Equity lives in the data. I build systems that make it measurable."**
