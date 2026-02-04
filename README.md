@@ -1,10 +1,276 @@
-▒█▀▀█ ▒█▀▀█ ▒█▀▀█ ▒█▄░▒█ ▒█▄░▒█ ▒█▄░▒█ ▒█▄░▒█ ▒█░▒█
-▒█▄▄█ ▒█▄▄▀ ▒█▄▄█ ▒█▒█▒█ ▒█▒█▒█ ▒█▒█▒█ ▒█▒█▒█ ▒█▀▀█
-▒█░░░ ▒█░▒█ ▒█░░░ ▒█░░▀█ ▒█░░▀█ ▒█░░▀█ ▒█░░▀█ ▒█░▒█
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Emmanuel Fle Chea - Profile</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
-▒█▀▀█ ▒█░▒█ ▒█▀▀█
-▒█▄▄█ ▒█░▒█ ▒█▄▄▀
-▒█░░░ ░▀▄▄▀ ▒█░▒█
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica', 'Arial', sans-serif;
+            background: linear-gradient(135deg, #6B7FED 0%, #8B5FC7 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .container {
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 24px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            max-width: 900px;
+            width: 100%;
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #7B8EED 0%, #9B6FD7 100%);
+            color: white;
+            padding: 60px 50px;
+            position: relative;
+            border-radius: 20px;
+            margin: 15px;
+        }
+
+        .header::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: radial-gradient(circle at 20% 50%, rgba(255,255,255,0.1) 0%, transparent 50%),
+                        radial-gradient(circle at 80% 80%, rgba(255,255,255,0.1) 0%, transparent 50%);
+            border-radius: 20px;
+        }
+
+        .header-content {
+            position: relative;
+            z-index: 1;
+        }
+
+        .name-section {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+
+        .icon {
+            font-size: 3em;
+            background: rgba(255, 255, 255, 0.2);
+            padding: 12px;
+            border-radius: 12px;
+            backdrop-filter: blur(10px);
+        }
+
+        h1 {
+            font-size: 2.8em;
+            font-weight: 700;
+            letter-spacing: -0.5px;
+        }
+
+        .tagline {
+            font-size: 1.25em;
+            font-style: italic;
+            line-height: 1.6;
+            margin-bottom: 25px;
+            opacity: 0.95;
+            border-left: 4px solid rgba(255, 255, 255, 0.6);
+            padding-left: 20px;
+        }
+
+        .bio {
+            font-size: 1.1em;
+            line-height: 1.8;
+            margin-bottom: 25px;
+            font-weight: 300;
+        }
+
+        .location-info {
+            display: flex;
+            gap: 30px;
+            flex-wrap: wrap;
+            font-size: 1.05em;
+            margin-bottom: 20px;
+        }
+
+        .location-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            background: rgba(255, 255, 255, 0.15);
+            padding: 8px 16px;
+            border-radius: 20px;
+            backdrop-filter: blur(5px);
+        }
+
+        .mission {
+            font-size: 1.05em;
+            line-height: 1.7;
+            padding: 20px 24px;
+            background: rgba(139, 95, 199, 0.4);
+            border-radius: 16px;
+            backdrop-filter: blur(10px);
+            display: flex;
+            align-items: flex-start;
+            gap: 12px;
+        }
+
+        .mission-icon {
+            font-size: 1.3em;
+            flex-shrink: 0;
+        }
+
+        .content {
+            padding: 50px;
+            background: white;
+        }
+
+        .section-title {
+            color: #7B8EED;
+            font-size: 2em;
+            margin-bottom: 30px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            font-weight: 700;
+        }
+
+        .badges {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+
+        .badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 12px;
+            padding: 16px 28px;
+            background: linear-gradient(135deg, #7B8EED 0%, #9B6FD7 100%);
+            color: white;
+            text-decoration: none;
+            border-radius: 30px;
+            font-weight: 600;
+            font-size: 1.05em;
+            transition: all 0.3s ease;
+            box-shadow: 0 6px 20px rgba(123, 142, 237, 0.4);
+        }
+
+        .badge:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 10px 30px rgba(123, 142, 237, 0.6);
+        }
+
+        .badge-icon {
+            font-size: 1.3em;
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2em;
+            }
+
+            .header {
+                padding: 40px 30px;
+            }
+
+            .content {
+                padding: 35px 30px;
+            }
+
+            .tagline {
+                font-size: 1.1em;
+            }
+
+            .location-info {
+                flex-direction: column;
+                gap: 12px;
+            }
+
+            .name-section {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .badges {
+                flex-direction: column;
+            }
+
+            .badge {
+                width: 100%;
+                justify-content: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="header-content">
+                <div class="name-section">
+                    <div class="icon">📊</div>
+                    <h1>Emmanuel Fle Chea</h1>
+                </div>
+                
+                <div class="tagline">
+                    "Equity lives in the data. I build systems that make it measurable."
+                </div>
+                
+                <div class="bio">
+                    Public health data scientist and biomedical researcher transforming clinical and population‑level data into translational, equitable, and operationally meaningful insights.
+                </div>
+                
+                <div class="location-info">
+                    <div class="location-item">
+                        <span>📍</span>
+                        <span>U.S.-based</span>
+                    </div>
+                    <div class="location-item">
+                        <span>🌍</span>
+                        <span>Liberian-rooted</span>
+                    </div>
+                </div>
+                
+                <div class="mission">
+                    <span class="mission-icon">🎯</span>
+                    <span>Building AI systems that advance healthcare equity, national security, and the global public good</span>
+                </div>
+            </div>
+        </div>
+        
+        <div class="content">
+            <h2 class="section-title">
+                <span>🔗</span>
+                <span>Research Profiles</span>
+            </h2>
+            
+            <div class="badges">
+                <a href="https://scholar.google.com/citations?user=UeIJ3uQAAAAJ" class="badge" target="_blank">
+                    <span class="badge-icon">🎓</span>
+                    <span>Google Scholar</span>
+                </a>
+                
+                <a href="https://orcid.org/0009-0005-1563-2558" class="badge" target="_blank">
+                    <span class="badge-icon">🆔</span>
+                    <span>ORCID: 0009-0005-1563-2558</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
 
 # 📊 Emmanuel Fle Chea
 
