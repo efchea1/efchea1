@@ -12,7 +12,7 @@
 
 **I founded [Lexify](https://lexify.health) to solve a problem I lived for 7 years.**
 
-Clinical data scientists spend hours — sometimes days — manually translating a medical policy document into production SQL. Lexify does it in seconds. Paste any clinical criteria. Get production-ready SQL, a logic specification, test cases, and a QC report — all traceable back to the source policy.
+Clinical data scientists spend hours, sometimes days, manually translating a medical policy document into production SQL. Lexify does it in seconds. Paste any clinical criteria. Get production-ready SQL, a logic specification, test cases, and a QC report, all traceable back to the source policy.
 
 [![Lexify](https://img.shields.io/badge/Lexify-lexify.health-0D9488?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHJ4PSI1IiBmaWxsPSIjMEQ5NDg4Ii8+PC9zdmc+&logoColor=white)](https://lexify.health)
 
@@ -37,7 +37,7 @@ Before founding Lexify, I built automated QC pipelines across millions of EHR re
 
 ## 📌 Featured Projects
 
-### 🏥 Lexify — Clinical Policy Intelligence *(Founder)*
+### 🏥 Lexify - Clinical Policy Intelligence *(Founder)*
 AI platform that translates medical policy documents into production-ready, auditable SQL. Live at [lexify.health](https://lexify.health).
 
 **Tech:** Node.js · Anthropic Claude API · Railway · OMOP CDM · Epic Clarity · Snowflake
@@ -46,14 +46,14 @@ AI platform that translates medical policy documents into production-ready, audi
 
 ---
 
-### Tier 1 — Flagship Research
+### Tier 1 - Flagship Research
 
 #### 🔬 ATN vs Machine-Learned Plasma Biomarker Phenotypes
 Comparative analysis of theory-driven ATN classification versus data-driven biomarker phenotypes using k-means, Gaussian mixture models, PCA, and variational autoencoders (VAE).
 
 **Tech:** R · Unsupervised ML · GMM · PCA · VAE
 
-📄 [Preprint — DOI: 10.64898/2026.01.02.26343331](https://doi.org/10.64898/2026.01.02.26343331)
+📄 [Preprint - DOI: 10.64898/2026.01.02.26343331](https://doi.org/10.64898/2026.01.02.26343331)
 
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/efchea1/ATN-vs-Machine-Learned-Plasma-Biomarker-Phenotypes)
 
@@ -64,7 +64,7 @@ Fairness, calibration, and population-representative evaluation of Alzheimer's p
 
 **Tech:** R · Fairness metrics · Calibration · Transportability
 
-📄 [Preprint — DOI: 10.64898/2026.01.31.26344775](https://doi.org/10.64898/2026.01.31.26344775)
+📄 [Preprint - DOI: 10.64898/2026.01.31.26344775](https://doi.org/10.64898/2026.01.31.26344775)
 
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/efchea1/Equity-Transportability-Plasma-ATN-Phenotypes)
 
