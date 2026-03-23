@@ -130,7 +130,7 @@ Large-scale Alzheimer's heterogeneity analysis using plasma biomarkers, ATN endo
 
 ## 🌍 Mission
 
-Rooted in Liberia, building in Minnesota. I bridge public health, clinical informatics, and AI to build systems that are fast, auditable, and equitable — starting with Lexify and the clinical data teams who deserve better tools.
+Rooted in Liberia, building in Minnesota. I bridge public health, clinical informatics, and AI to build systems that are fast, auditable, and equitable, starting with Lexify and the clinical data teams who deserve better tools.
 
 **Building systems where equity is not aspirational, it's measurable.**
 
