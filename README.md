@@ -8,7 +8,7 @@
 
 ---
 
-## 🏢 Lexify — Clinical Policy Intelligence
+## 🏢 Lexify - Clinical Policy Intelligence
 
 **I founded [Lexify](https://lexify.health) to solve a problem I lived for 7 years.**
 
