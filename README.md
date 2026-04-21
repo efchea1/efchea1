@@ -38,6 +38,8 @@ I'm a Healthcare Data Scientist and Clinical Informatician with 7+ years of expe
 
 Before founding Lexify, I built automated QC pipelines across millions of EHR records, wrote Medicaid claims logic for large patient populations, and developed LLM evaluation frameworks for healthcare AI. That experience is the foundation of everything Lexify does.
 
+Most recently: open source contributor to RConsortium pharma-skills (statistical correctness benchmarks for AI-assisted clinical trial design, acknowledged by project lead Yilong Zhang at Meta), independent AI safety researcher (Calibration Blindspot Benchmark, Kaggle AGI Hackathon 2026), and 1st place winner at HeatMap Hackathon 2026 for geospatial health equity analysis sponsored by the American Burn Association.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel_Fle_Chea-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-fle-chea)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=UeIJ3uQAAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--1563--2558-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0005-1563-2558)
