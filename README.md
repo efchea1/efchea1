@@ -95,7 +95,7 @@ Large-scale Alzheimer's heterogeneity analysis using plasma biomarkers, ATN endo
 
 | Work | Description | Link |
 |------|-------------|------|
-| **RConsortium pharma-skills** | Five statistical correctness benchmarks for the group-sequential-design AI skill - silent failure modes in clinical trial design. Acknowledged by project lead Yilong Zhang (Health Quantitative Scientist, Meta). Issues #36-40, April 2026 | [GitHub](https://github.com/efchea1/pharma-skills-benchmarks) |
+| **RConsortium pharma-skills** | Five statistical correctness benchmarks for the group-sequential-design AI skill, silent failure modes in clinical trial design. Acknowledged by project lead Yilong Zhang (Health Quantitative Scientist, Meta). Issues #36-40, April 2026 | [GitHub](https://github.com/efchea1/pharma-skills-benchmarks) |
 | **Calibration Blindspot Benchmark** | AI safety research evaluating metacognitive calibration across 8 models from 6 vendors. Found 7 of 8 models express 100% confidence while failing to predict their own errors. Kaggle AGI Hackathon 2026 | [GitHub](https://github.com/efchea1/calibration-blindspot-benchmark) · [Kaggle](https://www.kaggle.com/competitions/kaggle-measuring-agi/writeups/calibration-blindspot-benchmark-cbb) |
 | **HeatMap Hackathon 2026 - 1st Place** | Geospatial analysis of burn care access disparities across all 50 U.S. states; county-level gap identification. 19 teams, 90+ participants. Sponsored by American Burn Association, BData, HealthcareMN | [GitHub](https://github.com/efchea1/HeatMap_Burn_2026_Hackathon_Burn_Care_Access_Analysis) |
 
