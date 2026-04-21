@@ -49,7 +49,7 @@ Most recently: open source contributor to RConsortium pharma-skills (statistical
 
 ## 📌 Featured Projects
 
-### 🏥 Lexify - Clinical Policy Intelligence *(Founder)*
+### 🏥 Lexify Health - Clinical Policy Intelligence *(Founder & CEO)*
 AI platform that translates medical policy documents into production-ready, auditable SQL. Live at [lexify.health](https://lexify.health).
 
 **Tech:** Node.js · Anthropic Claude API · Railway · OMOP CDM · Epic Clarity · Snowflake
