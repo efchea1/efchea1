@@ -12,7 +12,7 @@
 
 ## 🏢 Lexify - Clinical Policy Intelligence
 
-**I founded [Lexify](https://lexify.health) to solve a problem I lived for 7 years.**
+**I founded [Lexify Health](https://lexify.health) to solve a problem I lived for 7 years.**
 
 Clinical data scientists spend hours, sometimes days, manually translating a medical policy document into production SQL. Lexify does it in seconds. Paste any clinical criteria. Get production-ready SQL, a logic specification, test cases, and a QC report, all traceable back to the source policy.
 
