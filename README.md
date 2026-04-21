@@ -36,7 +36,7 @@ a medical policy document into production SQL. Lexify does it within minutes...
 
 I'm a Healthcare Data Scientist and Clinical Informatician with 7+ years of experience building production-grade pipelines across EHRs, claims, registries, biomarkers, and survey data. My work spans clinical AI, health equity research, Alzheimer's biomarker phenotyping, and real-world evidence generation.
 
-Before founding Lexify, I built automated QC pipelines across millions of EHR records, wrote Medicaid claims logic for large patient populations, and developed LLM evaluation frameworks for healthcare AI. That experience is the foundation of everything Lexify does.
+Before founding Lexify Health, I built automated QC pipelines across millions of EHR records, wrote Medicaid claims logic for large patient populations, and developed LLM evaluation frameworks for healthcare AI. That experience is the foundation of everything Lexify does.
 
 Most recently: open source contributor to RConsortium pharma-skills (statistical correctness benchmarks for AI-assisted clinical trial design, acknowledged by project lead Yilong Zhang at Meta), independent AI safety researcher (Calibration Blindspot Benchmark, Kaggle AGI Hackathon 2026), and 1st place winner at HeatMap Hackathon 2026 for geospatial health equity analysis sponsored by the American Burn Association.
 
