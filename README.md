@@ -14,13 +14,21 @@
 
 **I founded [Lexify Health](https://lexify.health) to solve a problem I lived for 7 years.**
 
-Clinical data scientists spend hours, sometimes days, manually translating a medical policy document into production SQL. Lexify does it in seconds. Paste any clinical criteria. Get production-ready SQL, a logic specification, test cases, and a QC report, all traceable back to the source policy.
+> Selected to pitch Lexify Health at **Walleye Tank 2026** (May 4, 2026) · 
+> MN Cup 2026 Applicant (Life Science/Health IT) · 
+> VIP Invitation – Convene Conference (Dr. Pinar Karaca-Mandic, 
+> Distinguished McKnight University Professor, Founder & CEO XanthosHealth)
+
+---
+
+Clinical data scientists spend hours, sometimes days, manually translating 
+a medical policy document into production SQL. Lexify does it within minutes...
 
 [![Lexify](https://img.shields.io/badge/Lexify-lexify.health-0D9488?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHJ4PSI1IiBmaWxsPSIjMEQ5NDg4Ii8+PC9zdmc+&logoColor=white)](https://lexify.health)
 
-**Supports:** OMOP CDM · Epic Clarity · PostgreSQL · Snowflake · Databricks SQL
+**Supports:** OMOP CDM · Epic Clarity · PostgreSQL · Snowflake · Databricks SQL · Microspft SQL Server · Google BigQuery · Oracle Health (Cerner)
 
-**Output:** Production SQL · Logic Spec · Test Cases · QC Report · Python Wrapper
+**Outputs:** Production SQL · Logic Spec · Test Cases · QC Report · Python Wrapper · Policy Metadata · Narrative
 
 ---
 
@@ -81,16 +89,26 @@ Large-scale Alzheimer's heterogeneity analysis using plasma biomarkers, ATN endo
 
 ---
 
-### Additional Projects
+## 🏆 Recognition & Open Source Contributions
+
+| Work | Description | Link |
+|------|-------------|------|
+| **RConsortium pharma-skills** | Five statistical correctness benchmarks for the group-sequential-design AI skill - silent failure modes in clinical trial design. Acknowledged by project lead Yilong Zhang (Health Quantitative Scientist, Meta). Issues #36-40, April 2026 | [github.com/efchea1/pharma-skills-benchmarks](https://github.com/efchea1/pharma-skills-benchmarks) |
+| **Calibration Blindspot Benchmark** | AI safety research evaluating metacognitive calibration across 8 models from 6 vendors. Found 7 of 8 models express 100% confidence while failing to predict their own errors. Kaggle AGI Hackathon 2026 | [github.com/efchea1/calibration-blindspot-benchmark](https://github.com/efchea1/calibration-blindspot-benchmark) |
+| **HeatMap Hackathon 2026 - 1st Place** | Geospatial analysis of burn care access disparities across all 50 U.S. states; county-level gap identification. 19 teams, 90+ participants. Sponsored by American Burn Association, BData, HealthcareMN | [github.com/efchea1/HeatMap_Burn_2026_Hackathon_Burn_Care_Access_Analysis](https://github.com/efchea1/HeatMap_Burn_2026_Hackathon_Burn_Care_Access_Analysis) |
+
+---
+
+## Additional Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [Cardiovascular Risk Prediction](https://github.com/efchea1/Predictive-Analytics-for-Cardiovascular-Disease-Prevention) | Chronic disease risk prediction using BRFSS 2021 dataset; Logistic Regression, Decision Trees, KNN, and Random Forest compared across 400k+ records | R |
+| [CDC PLACES Health Mapping](https://github.com/efchea1/Analytic_Project_Regional-Health-Mapping-Harnessing-CDC-PLACES-Data-for-Minnesota-Community-Health-) | County-level chronic disease surveillance and health equity analytics for Minnesota; interactive R Shiny dashboard | R · R Shiny |
+| [Prostate Cancer Recurrence](https://github.com/efchea1/Biomarkers-and-Clinical-Covariates-for-Predicting-Prostate-Cancer-Recurrence) | Clinical outcomes study integrating 40 biomarkers with clinical covariates for 5-year recurrence prediction post-prostatectomy | R |
+| [RBC Storage Duration Analysis](https://github.com/efchea1/Evaluation-of-RBC-Storage-Duration-on-Prostate-Cancer-Recurrence-Post-Prostatectomy) | SAS-based retrospective clinical outcomes analysis of allogeneic RBC storage duration on biochemical recurrence timing | SAS |
+| [Stroke Prediction Models](https://github.com/efchea1/Build-and-deploy-stroke-prediction-models-using-R) | Predictive modeling and deployment for stroke risk assessment | R · R Shiny |
 | [Liver Disease Prediction](https://github.com/efchea1/Liver-Disease-Prediction-Project) | ML classification using clinical and biochemical features | Python · scikit-learn |
-| [Stroke Prediction Models](https://github.com/efchea1/Build-and-deploy-stroke-prediction-models-using-R) | Predictive modeling and deployment for stroke risk | R · R Shiny |
-| [Prostate Cancer Recurrence](https://github.com/efchea1/Biomarkers-and-Clinical-Covariates-for-Predicting-Prostate-Cancer-Recurrence) | Clinical outcomes study integrating biomarkers and covariates | R |
-| [RBC Storage Duration Analysis](https://github.com/efchea1/Evaluation-of-RBC-Storage-Duration-on-Prostate-Cancer-Recurrence-Post-Prostatectomy) | SAS-based clinical outcomes analysis | SAS |
-| [Cardiovascular Risk Prediction](https://github.com/efchea1/Predictive-Analytics-for-Cardiovascular-Disease-Prevention) | Chronic disease risk prediction using BRFSS data | R |
-| [CDC PLACES Health Mapping](https://github.com/efchea1/Analytic_Project_Regional-Health-Mapping-Harnessing-CDC-PLACES-Data-for-Minnesota-Community-Health-) | Community-level health equity analytics for Minnesota | R · R Shiny |
 
 ---
 
