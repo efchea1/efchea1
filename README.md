@@ -16,7 +16,7 @@
 
 > Selected to pitch Lexify Health at **Walleye Tank 2026** (May 4, 2026) · 
 > MN Cup 2026 Applicant (Life Science/Health IT) · 
-> VIP Invitation – Convene Conference (Dr. Pinar Karaca-Mandic, 
+> VIP Invitation - Convene Conference (Dr. Pinar Karaca-Mandic, 
 > Distinguished McKnight University Professor, Founder & CEO XanthosHealth)
 
 ---
