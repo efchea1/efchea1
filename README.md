@@ -1,7 +1,8 @@
 # Emmanuel Fle Chea
 
 **Founder & CEO, Lexify Health | Clinical Data Scientist | Healthcare AI**
-Open source contributor: RConsortium pharma-skills · Kaggle AGI benchmark · HeatMap 2026 1st Place
+
+**Open source contributor: RConsortium pharma-skills · Kaggle AGI benchmark · HeatMap 2026 1st Place**
 
 > *"Equity lives in the data. I build systems that make it measurable."*
 
