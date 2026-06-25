@@ -38,7 +38,8 @@ I'm a Healthcare Data Scientist and Clinical Informatician with 7+ years of expe
 
 Before founding Lexify Health, I built automated QC pipelines across millions of EHR records, wrote Medicaid claims logic for large patient populations, and developed LLM evaluation frameworks for healthcare AI. That experience is the foundation of everything Lexify does.
 
-**Most recently:** merged contributor to RConsortium pharma-skills with two merged pull requests, **PR #152** (fixed `derive_vars_merged_lookup` enforcement, confirmed by four independent re-runs, score improving from 94.4% to 98.9%) and **PR #187** (implemented a previously dead-stubbed PPROTFL derivation in admiral-adsl, addressing a gap both the AI agent and the baseline model failed identically across benchmarking). Authored 20 benchmark cases (Issues #36–40, #165–175) spanning admiral PK/RECIST/ADTTE/SAFFL derivations, Bayesian adaptive dose-finding, group-sequential non-inferiority and platform trial designs, and r2rtf survival tables, driving measurable skill improvements confirmed by independent maintainer re-runs. **Also:** independent AI safety researcher (Calibration Blindspot Benchmark, Kaggle AGI Hackathon 2026), and 1st place winner at HeatMap Hackathon 2026 sponsored by the American Burn Association.
+**Most recently:** merged contributor to RConsortium pharma-skills with two merged pull requests, **PR #152** (fixed `derive_vars_merged_lookup` enforcement, confirmed by four independent re-runs, score improving from 94.4% to 98.9%) and **PR #187** (implemented a previously dead-stubbed PPROTFL derivation in admiral-adsl, addressing a gap both the AI agent and the baseline model failed identically across benchmarking). Authored 20 benchmark cases (Issues #36–40, #165–175) spanning admiral PK/RECIST/ADTTE/SAFFL derivations, Bayesian adaptive dose-finding, group-sequential non-inferiority and platform trial designs, and r2rtf survival tables, driving measurable skill improvements confirmed by independent maintainer re-runs. 
+**Also:** independent AI safety researcher (Calibration Blindspot Benchmark, Kaggle AGI Hackathon 2026), and 1st place winner at HeatMap Hackathon 2026 sponsored by the American Burn Association.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel_Fle_Chea-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-fle-chea)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=UeIJ3uQAAAAJ)
@@ -82,7 +83,7 @@ Large-scale Alzheimer's heterogeneity analysis using plasma biomarkers, ATN endo
 
 ---
 
-#### 🧪 RConsortium pharma-skills — AI Benchmark Contributions
+#### 🧪 RConsortium pharma-skills - AI Benchmark Contributions
 Designed and contributed 20 silent-failure benchmark cases evaluating AI coding agents against the {admiral} ADaM ecosystem, group-sequential trial design, Bayesian adaptive simulation, and r2rtf reporting, then diagnosed root causes and shipped two merged pull requests fixing the gaps the benchmarks exposed.
 
 **Tech:** R · {admiral}/{admiralonco} · gsDesign/gsDesign2 · CDISC ADaM/SDTM · Claude Code
