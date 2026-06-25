@@ -1,6 +1,6 @@
 # Emmanuel Fle Chea
 
-**Founder & CEO, Lexify Health | Clinical Data Scientist | Healthcare AI**
+**Founder & CEO, Lexify Health | Clinical Data Scientist**
 
 **Open source contributor: RConsortium pharma-skills · Kaggle AGI benchmark · HeatMap 2026 1st Place**
 
@@ -38,7 +38,7 @@ I'm a Healthcare Data Scientist and Clinical Informatician with 7+ years of expe
 
 Before founding Lexify Health, I built automated QC pipelines across millions of EHR records, wrote Medicaid claims logic for large patient populations, and developed LLM evaluation frameworks for healthcare AI. That experience is the foundation of everything Lexify does.
 
-**Most recently:** merged contributor to RConsortium pharma-skills, ran six benchmark evaluations across admiral-adae and admiral-bds skills, identified a repeating `derive_vars_merged_lookup` enforcement gap, and merged **PR #152** to fix it (confirmed by four independent re-runs, score improving from 94.4% to 98.9%). **Also:** independent AI safety researcher (Calibration Blindspot Benchmark, Kaggle AGI Hackathon 2026), and 1st place winner at HeatMap Hackathon 2026 sponsored by the American Burn Association.
+**Most recently:** merged contributor to RConsortium pharma-skills with two merged pull requests, **PR #152** (fixed `derive_vars_merged_lookup` enforcement, confirmed by four independent re-runs, score improving from 94.4% to 98.9%) and **PR #187** (implemented a previously dead-stubbed PPROTFL derivation in admiral-adsl, addressing a gap both the AI agent and the baseline model failed identically across benchmarking). Authored 20 benchmark cases (Issues #36–40, #165–175) spanning admiral PK/RECIST/ADTTE/SAFFL derivations, Bayesian adaptive dose-finding, group-sequential non-inferiority and platform trial designs, and r2rtf survival tables, driving measurable skill improvements confirmed by independent maintainer re-runs. **Also:** independent AI safety researcher (Calibration Blindspot Benchmark, Kaggle AGI Hackathon 2026), and 1st place winner at HeatMap Hackathon 2026 sponsored by the American Burn Association.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel_Fle_Chea-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-fle-chea)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=UeIJ3uQAAAAJ)
@@ -82,11 +82,22 @@ Large-scale Alzheimer's heterogeneity analysis using plasma biomarkers, ATN endo
 
 ---
 
+#### 🧪 RConsortium pharma-skills — AI Benchmark Contributions
+Designed and contributed 20 silent-failure benchmark cases evaluating AI coding agents against the {admiral} ADaM ecosystem, group-sequential trial design, Bayesian adaptive simulation, and r2rtf reporting, then diagnosed root causes and shipped two merged pull requests fixing the gaps the benchmarks exposed.
+
+**Tech:** R · {admiral}/{admiralonco} · gsDesign/gsDesign2 · CDISC ADaM/SDTM · Claude Code
+
+📄 [PR #152](https://github.com/RConsortium/pharma-skills/pull/152) · [PR #187](https://github.com/RConsortium/pharma-skills/pull/187)
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/efchea1/pharma-skills-benchmarks)
+
+---
+
 ## 🏆 Recognition & Open Source Contributions
 
 | Work | Description | Link |
 |------|-------------|------|
-| **RConsortium pharma-skills** | Five statistical correctness benchmarks for the group-sequential-design AI skill (Issues **#36-40**, April 2026). Ran benchmark evaluations for admiral-adae (**#148:** 93.8% vs 33.3%) and admiral-bds (**#147:** 88.2%→94.7%, **#149:** 94.4%→98.9%). Opened and merged **PR #152** fixing `derive_vars_merged_lookup` enforcement, fix confirmed by four independent benchmark runs. Merged contributor. Acknowledged by project lead Yilong Zhang (Health Quantitative Scientist, Meta). | [GitHub](https://github.com/efchea1/pharma-skills-benchmarks) · [PR #152](https://github.com/RConsortium/pharma-skills/pull/152) |
+| **RConsortium pharma-skills** | Merged contributor with **2 merged PRs** (#152, #187) and **20 benchmark cases** authored across group-sequential-design, admiral-adsl/admiral-bds, clinical-trial-simulation, and r2rtf skills (Issues #36–40, #165–175). Benchmarks have driven measurable, independently-confirmed skill improvements; acknowledged by project lead Yilong Zhang (Meta) and reviewed by core contributors jeffreyad and elong0527. | [GitHub](https://github.com/efchea1/pharma-skills-benchmarks) · [PR #152](https://github.com/RConsortium/pharma-skills/pull/152) · [PR #187](https://github.com/RConsortium/pharma-skills/pull/187) |
 | **Calibration Blindspot Benchmark** | AI safety research evaluating metacognitive calibration across 8 models from 6 vendors. Found 7 of 8 models express 100% confidence while failing to predict their own errors. Kaggle AGI Hackathon 2026 | [GitHub](https://github.com/efchea1/calibration-blindspot-benchmark) · [Kaggle](https://www.kaggle.com/competitions/kaggle-measuring-agi/writeups/calibration-blindspot-benchmark-cbb) |
 | **HeatMap Hackathon 2026 - 1st Place** | Geospatial analysis of burn care access disparities across all 50 U.S. states; county-level gap identification. 19 teams, 90+ participants. Sponsored by American Burn Association, BData, HealthcareMN | [GitHub](https://github.com/efchea1/HeatMap_Burn_2026_Hackathon_Burn_Care_Access_Analysis) |
 
