@@ -33,13 +33,15 @@ Clinical data scientists spend hours, sometimes days, manually translating a med
 
 ## 👋 About Me
 
-I'm a Healthcare Data Scientist and Clinical Informatician with 7+ years of experience building production-grade pipelines across EHRs, claims, registries, biomarkers, and survey data. My work spans clinical AI, health equity research, Alzheimer's biomarker phenotyping, and real-world evidence generation.
+I'm a founder and AI/software engineer working at the intersection of healthcare AI, clinical data science, and technology governance. I build production systems, from clinical policy intelligence platforms to agentic automation pipelines, and pair that with independent AI-safety research and advisory work in health-tech policy. My work is rooted in a conviction that equity has to be measurable, not aspirational.
 
 Before founding Lexify Health, I built automated QC pipelines across millions of EHR records, wrote Medicaid claims logic for large patient populations, and developed LLM evaluation frameworks for healthcare AI. That experience is the foundation of everything Lexify does.
 
-**Most recently:** merged contributor to RConsortium pharma-skills with two merged pull requests, **PR #152** (fixed `derive_vars_merged_lookup` enforcement, confirmed by four independent re-runs, score improving from 94.4% to 98.9%) and **PR #187** (implemented a previously dead-stubbed PPROTFL derivation in admiral-adsl, both the AI agent and the baseline model had failed identically on this assertion before the fix). Authored 20 benchmark cases (Issues #36-40, #165-175) spanning admiral PK/RECIST/ADTTE/SAFFL derivations, Bayesian adaptive dose-finding, group-sequential non-inferiority and platform trial designs, and r2rtf survival tables, driving measurable skill improvements confirmed by independent maintainer re-runs. 
+**Most recently:** built and deployed a full **RAG automation agent** for enterprise IT operations, retrieval-augmented generation, agentic triage, guided remediation with human-approval gates, and live integrations across ITSM, identity, and Power Automate, publicly live at [rag-automation-agent.streamlit.app](https://rag-automation-agent.streamlit.app) with 50 passing tests and a documented security/governance layer.
 
-**Also:** independent AI safety researcher (Calibration Blindspot Benchmark, Kaggle AGI Hackathon 2026), and 1st place winner at HeatMap Hackathon 2026 sponsored by the American Burn Association.
+**Also recently:** merged contributor to RConsortium pharma-skills with two merged pull requests, **PR #152** (fixed `derive_vars_merged_lookup` enforcement, confirmed by four independent re-runs, score improving from 94.4% to 98.9%) and **PR #187** (implemented a previously dead-stubbed PPROTFL derivation in admiral-adsl, both the AI agent and the baseline model had failed identically on this assertion before the fix). Authored 20 benchmark cases (Issues #36-40, #165-175) spanning admiral PK/RECIST/ADTTE/SAFFL derivations, Bayesian adaptive dose-finding, group-sequential non-inferiority and platform trial designs, and r2rtf survival tables, driving measurable skill improvements confirmed by independent maintainer re-runs.
+
+**And:** independent AI safety researcher (Calibration Blindspot Benchmark, Kaggle AGI Hackathon 2026), and 1st place winner at HeatMap Hackathon 2026 sponsored by the American Burn Association.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel_Fle_Chea-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-fle-chea)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=UeIJ3uQAAAAJ)
@@ -50,7 +52,16 @@ Before founding Lexify Health, I built automated QC pipelines across millions of
 
 ## 📌 Featured Projects
 
-### Tier 1 - Flagship Research
+### Tier 1 - Flagship Research & Engineering
+
+#### 🤖 RAG Automation Agent - Enterprise IT Operations
+A working, publicly deployed RAG agent that ingests PDF/DOCX/HTML documents into a real vector database plus hybrid keyword search, then runs a full agentic pipeline: query rewriting, grounded/cited retrieval, triage classification, guided-remediation runbook matching with human-approval gates, and downstream automation into ServiceNow, Microsoft Graph (identity), and Power Automate. Exposed as a Python library, CLI, and authenticated REST API. 50 passing tests, dry-run-by-default on every mutating integration, and a dedicated governance layer (PII redaction, structured audit log, API key auth + rate limiting).
+
+**Tech:** Python · Streamlit · FastAPI · ChromaDB · BM25/TF-IDF Hybrid Retrieval · pypdf · Anthropic/OpenAI/Azure OpenAI · Microsoft Graph · ServiceNow API · Power Automate · AWS (S3, Secrets Manager) · Azure (Blob Storage, Key Vault) · pytest
+
+🔗 [Live Demo](https://rag-automation-agent.streamlit.app) · [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/efchea1/rag-automation-agent)
+
+---
 
 #### 🔬 ATN vs Machine-Learned Plasma Biomarker Phenotypes
 Comparative analysis of theory-driven ATN classification versus data-driven biomarker phenotypes using k-means, Gaussian mixture models, PCA, and variational autoencoders (VAE).
@@ -127,6 +138,15 @@ Designed and contributed 20 silent-failure benchmark cases evaluating AI coding 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
 
+### Agentic AI & Enterprise Automation
+![RAG](https://img.shields.io/badge/RAG-6E56CF?logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?logoColor=white)
+![Anthropic API](https://img.shields.io/badge/Anthropic_API-D97757?logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?logo=openai&logoColor=white)
+![Microsoft Graph](https://img.shields.io/badge/Microsoft_Graph-0078D4?logo=microsoft&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-00C487?logo=servicenow&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?logo=microsoftpowerautomate&logoColor=white)
+
 ### AI & Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?logo=chainlink&logoColor=white)
@@ -143,6 +163,9 @@ Designed and contributed 20 silent-failure benchmark cases evaluating AI coding 
 ### Infrastructure & MLOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 ![HIPAA](https://img.shields.io/badge/HIPAA_Compliant-DC143C?logoColor=white)
 
@@ -155,7 +178,7 @@ Designed and contributed 20 silent-failure benchmark cases evaluating AI coding 
 
 ## 🌍 Mission
 
-Rooted in Liberia, building in Minnesota. I bridge public health, clinical informatics, and AI to build systems that are fast, auditable, and equitable, starting with Lexify and the clinical data teams who deserve better tools.
+Rooted in Liberia, building in Minnesota. I bridge public health, clinical informatics, AI safety, and technology governance to build systems that are fast, auditable, and equitable, from Lexify's clinical policy engine, to agentic automation for enterprise IT, to benchmarks that test whether AI systems can be trusted at all.
 
 **Building systems where equity is not aspirational, it's measurable.**
 
@@ -163,11 +186,17 @@ Rooted in Liberia, building in Minnesota. I bridge public health, clinical infor
 
 ## 📄 License
 
-All research projects in this repository are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+Licensing varies by project:
+
+- **Lexify Health** is proprietary software. All rights reserved.
+- **RAG Automation Agent** is public for demonstration and evaluation purposes only. All rights reserved, see the repo's [LICENSE](https://github.com/efchea1/rag-automation-agent/blob/main/LICENSE).
+- Most research repositories are licensed under **MIT**, see each repo for its specific license.
+- A subset of research work is licensed under [Creative Commons Attribution-NonCommercial 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
 
 [![CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Lexify is proprietary software. All rights reserved.
+Check each individual repository for its specific license terms.
 
 ---
 
