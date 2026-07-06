@@ -1,12 +1,12 @@
 # Emmanuel Fle Chea
 
-**Founder & CEO, Lexify Health | Clinical Data Scientist**
+**Founder & CEO, Lexify Health | AI/Software Engineer | TAC Member, MN Community Health Worker Alliance**
 
-**Open source contributor: RConsortium pharma-skills · Kaggle AGI benchmark · HeatMap 2026 1st Place**
+**Open source contributor: RConsortium pharma-skills · Kaggle AGI Benchmark · HeatMap 2026 1st Place**
 
 > *"Equity lives in the data. I build systems that make it measurable."*
 
-📍 Minnesota, USA &nbsp;|&nbsp; 🌍 Liberian-rooted &nbsp;|&nbsp; 🏥 Building clinical AI that actually works in production
+📍 Minnesota, USA  |  🌍 Liberian-rooted  |  🏥 Building clinical AI and agentic automation that actually work in production
 
 ---
 
