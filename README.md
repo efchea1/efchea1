@@ -59,7 +59,7 @@ A working, publicly deployed RAG agent that ingests PDF/DOCX/HTML documents into
 
 **Tech:** Python · Streamlit · FastAPI · ChromaDB · BM25/TF-IDF Hybrid Retrieval · pypdf · Anthropic/OpenAI/Azure OpenAI · Microsoft Graph · ServiceNow API · Power Automate · AWS (S3, Secrets Manager) · Azure (Blob Storage, Key Vault) · pytest
 
-🔗 [Live Demo](https://rag-automation-agent.streamlit.app) 
+🔗 [Live Demo](https://rag-automation-agent.onrender.com/) 
 
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/efchea1/rag-automation-agent)
 
