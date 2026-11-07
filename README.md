@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 
-I'm a clinical data scientist and AI/software engineer working at the intersection of clinical trial data, healthcare AI, and technology governance. I write production R and SAS for clinical data, build CDISC-aligned derivations with the pharmaverse ecosystem, and test whether AI coding agents can be trusted with regulated clinical work. My work is rooted in a conviction that equity has to be measurable, not aspirational.
+I'm a clinical data scientist and AI/software engineer working at the intersection of clinical trial data, healthcare AI, and technology governance. I write production R, SAS, and Python for clinical data, build CDISC-aligned derivations with the pharmaverse ecosystem, and test whether AI coding agents can be trusted with regulated clinical work. My work is rooted in a conviction that equity has to be measurable, not aspirational.
 
 Before founding Lexify Health, I built automated QC pipelines across millions of EHR records, wrote Medicaid claims logic for large patient populations, and developed LLM evaluation frameworks for healthcare AI.
 
