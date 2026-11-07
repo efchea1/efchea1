@@ -31,8 +31,8 @@ Before founding Lexify Health, I built automated QC pipelines across millions of
 
 ## 🎓 Education & Certifications
 
-- **MPH, Public Health Data Science** - University of Minnesota School of Public Health (2025)
-- **BA, Physics & Mathematics** - Wells College
+- **MPH, Public Health Data Science** - University of Minnesota School of Public Health
+- **BA, Physics, with a minor in Mathematics** - Wells College
 - **Certifications:** SAS Base Certified · Tableau Desktop Specialist · Microsoft Power BI Data Analyst (PL-300)
 
 ---
