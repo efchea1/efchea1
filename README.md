@@ -1,6 +1,6 @@
 # Emmanuel Fle Chea
 
-**Clinical Data Scientist · R/SAS/Python Statistical Programming (CDISC/ADaM) · Founder & CEO, Lexify Health**
+**Clinical Data Scientist · R/SAS/Python Statistical Programming (CDISC/ADaM) · Founder & Sole Developer, Lexify Health**
 
 **R/Pharma 2026 Speaker · RConsortium pharma-skills Contributor · Kaggle AGI Benchmark · HeatMap 2026 1st Place · TAC Member, MN Community Health Worker Alliance**
 
